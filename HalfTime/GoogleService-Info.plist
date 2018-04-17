@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>783632101159-9t53e0cv2krc3tag3ccv8mds6fo0jcj0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783632101159-9t53e0cv2krc3tag3ccv8mds6fo0jcj0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCI2CziVElG9X_DVqkvnW_YbLLtyZ1k3Dw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783632101159</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>connorleisz.HalfTime</string>
+	<key>PROJECT_ID</key>
+	<string>halftime-trivia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>halftime-trivia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783632101159:ios:21b9301cdb5daaf0</string>
+	<key>DATABASE_URL</key>
+	<string>https://halftime-trivia.firebaseio.com</string>
+</dict>
+</plist>

@@ -14,6 +14,7 @@
 		8C48B5212085E9EE00D2C17E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C48B51F2085E9EE00D2C17E /* LaunchScreen.storyboard */; };
 		8C48B52C2085E9EE00D2C17E /* HalfTimeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C48B52B2085E9EE00D2C17E /* HalfTimeTests.swift */; };
 		8C48B5372085E9EE00D2C17E /* HalfTimeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C48B5362085E9EE00D2C17E /* HalfTimeUITests.swift */; };
+		8C48B5452085F13000D2C17E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C48B5442085F13000D2C17E /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8C48B5322085E9EE00D2C17E /* HalfTimeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HalfTimeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C48B5362085E9EE00D2C17E /* HalfTimeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HalfTimeUITests.swift; sourceTree = "<group>"; };
 		8C48B5382085E9EE00D2C17E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C48B5442085F13000D2C17E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		8C48B5152085E9EC00D2C17E /* HalfTime */ = {
 			isa = PBXGroup;
 			children = (
+				8C48B5442085F13000D2C17E /* GoogleService-Info.plist */,
 				8C48B5162085E9EC00D2C17E /* AppDelegate.swift */,
 				8C48B5182085E9EC00D2C17E /* ViewController.swift */,
 				8C48B51A2085E9EC00D2C17E /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C48B5212085E9EE00D2C17E /* LaunchScreen.storyboard in Resources */,
+				8C48B5452085F13000D2C17E /* GoogleService-Info.plist in Resources */,
 				8C48B51E2085E9EE00D2C17E /* Assets.xcassets in Resources */,
 				8C48B51C2085E9EC00D2C17E /* Main.storyboard in Resources */,
 			);
